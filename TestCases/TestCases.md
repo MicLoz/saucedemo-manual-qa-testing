@@ -63,6 +63,8 @@ Test Outcome: FAIL
 Comments: Although the Actual Result matches the Expected Result
 the text of the error message is not displayed correctly making it difficult for the User to read, I raised a visual / layout bug on this and recommended thee red background box is expanded vertically to allow for the error message to be displayed properly making for a better user experience and improving quality.
 
+![img_3.png](../Screenshots/img_3.png)
+Bug raised ready for Development to pick up in Jira
 ---
 
 ### **TC03 – Verify Inventory Item Details**
